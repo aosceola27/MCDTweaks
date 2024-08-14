@@ -17,7 +17,7 @@ Have any suggestions? Bugs? Hmu on Snap `@aosceola56` or on Discord `datgamer56`
 - Overall site cleanup
 - ...more coming soon!
 
-# In progress
+### In progress
 - Dark mode
 - Update system
 - Form auto-sign
