@@ -27,7 +27,7 @@ Have any suggestions? Bugs? Hmu on Snap `@aosceola56` or on Discord `datgamer56`
 ***Google Chrome:***
 
 1. Install the [`User Javascript and CSS`](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en&pli=1) extension.
-2. Go to the latest releases.
+2. Go to the [latest release](https://github.com/aosceola27/MCDTweaks/releases/latest).
 3. Download the `MCDTweaks-vX.X-CHROME.min.json` file.
 4. Open the extension, click "Settings", then head to "Extension Settings" (third tab from the top on the left)
 5. Under "Local Storage", hit `Upload JSON` and upload the .json file.
