@@ -1,5 +1,5 @@
 # MCDTweaks by Anthony Osceola
-
+<img src="https://placekitten.com/100/200">
 Coming start of school :)
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
