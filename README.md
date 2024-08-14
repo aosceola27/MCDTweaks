@@ -6,7 +6,7 @@ Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
 This is not officially endorsed by MCDS, and things may break.
 
-Have any suggestions? Bugs? Hmu on Snap `@aosceola56` or on Discord `datgamer56`
+Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 
 ## Features
 
