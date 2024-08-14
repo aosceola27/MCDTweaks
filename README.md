@@ -1,6 +1,6 @@
 # MCDTweaks by Anthony Osceola
 
-Coming start of school
+Coming start of school :)
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
@@ -32,4 +32,7 @@ Have any suggestions? Bugs? Hmu on Snap `@aosceola56` or on Discord `datgamer56`
 4. Open the extension, click "Settings", then head to "Extension Settings" (third tab from the top on the left)
 5. Under "Local Storage", hit `Upload JSON` and upload the .json file.
 
-**Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry!**
+> [!WARNING]
+> Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry!
+
+> Anthony, Class of 2027
