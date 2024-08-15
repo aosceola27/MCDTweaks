@@ -33,4 +33,5 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 > [!WARNING]
 > Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry!
 
+Special thanks to Blair and Reece for helping and testing this
 > Anthony, Class of 2027
