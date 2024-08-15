@@ -18,8 +18,6 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 - ...more coming soon!
 
 ### In progress
-- Dark mode
-- Update system
 - Form auto-sign
 
 ## How to install
