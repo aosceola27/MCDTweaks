@@ -15,10 +15,8 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 - Better messages page
 - Various QOL tweaks (i.e. Classes are in order by track, etc)
 - Overall site cleanup
+- Security improvements
 - ...more coming soon!
-
-### In progress
-- Form auto-sign
 
 ## How to install
 
