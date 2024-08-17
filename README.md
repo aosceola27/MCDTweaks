@@ -18,6 +18,10 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 - Security improvements
 - ...more coming soon!
 
+# Coming soon
+- Custom Profiles
+- Themes?
+
 ## How to install
 
 ***Google Chrome:***
