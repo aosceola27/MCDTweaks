@@ -22,6 +22,13 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 - Custom Profiles
 - Themes?
 
+> [!NOTE]
+> Dark mode (and by extension, custom themes that I may implement) will never be perfect.
+> Many people have access to menus which I never will, and thus won't be able to change. (Ex: parents, teachers, athletes, etc)
+> While I have tried to make dark mode the best as I can get it, there will still be pages that won't be affected.
+> Additionally, site changes that occurred over the summer (ex: the Assignment Center) will be broken until I can fix them shortly after the year begins.
+> If you have any menus or areas that haven't been working on dark mode, please reach out to me, and I'll try to fix it.
+
 ## How to install
 
 ***Google Chrome:***
