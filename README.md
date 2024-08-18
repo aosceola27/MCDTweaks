@@ -6,6 +6,9 @@ Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
 This is not officially endorsed by MCDS, and things may break.
 
+> [!NOTE]
+> Since MyCountryDay runs on Blackbaud I guess these scripts will work on other Blackbaud school sites
+
 Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 
 ## Features
