@@ -1,5 +1,5 @@
 # MCDTweaks by Anthony Osceola
-<img src="https://cdn.discordapp.com/attachments/1241414546527359049/1273825140240810054/Untitled_presentation.png?ex=66c0059b&is=66beb41b&hm=20dce85c4c34dbb25f7ad071362042d1b261a74257be6512a5194b6dc88668a1&" style="text-align: center; border-radius: 10px;">
+<img src="https://i.ibb.co/1QcWkJh/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3132343134313435343635.png" style="text-align: center; border-radius: 10px;">
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
