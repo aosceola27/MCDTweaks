@@ -39,11 +39,13 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 1. Install the [`User Javascript and CSS`](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en&pli=1) extension.
 2. Go to the [latest release](https://github.com/aosceola27/MCDTweaks/releases/latest).
 3. Download the `MCDTweaks-vX.X-CHROME-min.json` file.
-4. Open the extension, click "Settings", then head to "Extension Settings" (third tab from the top on the left)
-5. Under "Local Storage", hit `Upload JSON` and upload the .json file.
+4. [Enable Developer Mode in the extensions menu.](https://developer.chrome.com/docs/extensions/reference/api/userScripts?hl=en#developer_mode_for_extension_users)
+5. Open the extension, click "Settings", then head to "Extension Settings" (third tab from the top on the left)
+6. Under "Local Storage", hit `Upload JSON` and upload the .json file.
 
 > [!WARNING]
-> Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry!
+> Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry! <br />
+> Additionally, this plugin will not work on the school computers, as MCDS blocked all extensions on them. (why mcds)
 
 Special thanks to Blair and Reece for helping and testing this
 > Anthony, Class of 2027
