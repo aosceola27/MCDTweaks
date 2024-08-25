@@ -5,6 +5,9 @@ Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
 This is not officially endorsed by MCDS, and things may break.
 
+Want to support my work and future updates? <br /><br />
+<a href="https://www.buymeacoffee.com/aosceola56"><img src="https://img.buymeacoffee.com/button-api/?text=pay me fr&emoji=:pray:&slug=aosceola56&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 > [!NOTE]
 > Since MyCountryDay runs on Blackbaud these scripts might work on other Blackbaud school sites.
 
