@@ -48,6 +48,7 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 > [!WARNING]
 > Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry! <br />
 > Additionally, this plugin will not work on the school computers, as MCDS blocked all extensions on them. (why mcds)
+> Currently, I'm actively trying to get this approved by IT for use on the school computers. I'll give an update soon.
 
 Special thanks to Blair and Reece for helping and testing this
 > Anthony, Class of 2027
