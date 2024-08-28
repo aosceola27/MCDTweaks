@@ -25,6 +25,7 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 - ...more coming soon!
 
 # Coming soon
+- Old assignment center
 - Custom Profiles
 - Themes?
 
