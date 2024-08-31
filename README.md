@@ -15,17 +15,16 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 
 ## Features
 
+- Old assignment center
 - Dark Mode
 - Ultrawide Mode (for large screens, experimental)
 - Better messages page
 - Better Directory
 - Various QOL tweaks (i.e. Classes are in order by track, etc)
 - Overall site cleanup
-- Security improvements
 - ...more coming soon!
 
 # Coming soon
-- Old assignment center
 - Custom Profiles
 - Themes?
 
