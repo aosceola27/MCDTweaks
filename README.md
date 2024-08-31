@@ -1,5 +1,5 @@
 # MCDTweaks by Anthony Osceola
-<img src="https://i.ibb.co/qCtHncT/Screenshot-2024-08-31-005916.png" style="text-align: center; border-radius: 10px;">
+<img src="https://i.ibb.co/G9KZJ8z/Screenshot-2024-08-31-005916.png" style="text-align: center; border-radius: 10px;">
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
