@@ -1,12 +1,12 @@
 [
   {
-    "name":"testTheme"
-    "--variable1":"value"
+    "name":"testTheme",
+    "--variable1":"value",
     "--variable2":"value"
   },
   {
-    "name":"testTheme2"
-    "--variable1":"value"
+    "name":"testTheme2",
+    "--variable1":"value",
     "--variable2":"value"
   }
 ]
