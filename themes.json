@@ -1,12 +1,38 @@
 [
   {
-    "name":"testTheme",
-    "--variable1":"value",
-    "--variable2":"value"
+    "name":"MCDS (default)",
+    "version":"1",
+    "--mcdtweaks-bg": "#eeeeef",
+    "--mcdtweaks-navbar": "#edeae6",
+    "--mcdtweaks-content": "#fff",
+    "--mcdtweaks-content-secondary": "#eeeeef",
+    "--mcdtweaks-button": "#fff",
+    "--mcdtweaks-border": "#cdcfd2",
+    "--mcdtweaks-text": "#282b31",
+    "--mcdtweaks-text-secondary": "grey",
+    "--mcdtweaks-link": "#007ca6",
+    "--mcdtweaks-important": "#81d4f7",
+    "--mcdtweaks-important-secondary": "#00b4f1",
+    "--mcdtweaks-input": "white",
+    "--mcdtweaks-accent1": "#000dff",
+    "--mcdtweaks-accent2": "red"
   },
   {
-    "name":"testTheme2",
-    "--variable1":"value",
-    "--variable2":"value"
+    "name":"Dark",
+    "version":"1",
+    "--mcdtweaks-bg": "#1d1e22",
+    "--mcdtweaks-navbar": "rgb(28, 28, 30)",
+    "--mcdtweaks-content": "rgb(41, 41, 43)",
+    "--mcdtweaks-content-secondary": "#252525",
+    "--mcdtweaks-button": "#373739",
+    "--mcdtweaks-border": "#2f2f2f",
+    "--mcdtweaks-text": "white",
+    "--mcdtweaks-text-secondary": "#999999",
+    "--mcdtweaks-link": "#00a5dd",
+    "--mcdtweaks-important": "#454545",
+    "--mcdtweaks-important-secondary": "#373737",
+    "--mcdtweaks-input": "#252525",
+    "--mcdtweaks-accent1": "#272727",
+    "--mcdtweaks-accent2": "#181818"
   }
 ]
