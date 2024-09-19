@@ -27,6 +27,7 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 # Coming soon
 - Custom Profiles
 - Themes?
+- Firefox support
 
 > [!NOTE]
 > Dark mode (and by extension, custom themes that I may implement) will never be perfect. <br />
