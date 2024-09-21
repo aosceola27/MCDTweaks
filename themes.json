@@ -30,7 +30,7 @@
     "--mcdtweaks-border": "#2f2f2f",
     "--mcdtweaks-text": "white",
     "--mcdtweaks-text-secondary": "#999999",
-    "--mcdtweaks-text-inverse": "black",
+    "--mcdtweaks-text-inverse": "white",
     "--mcdtweaks-link": "#00a5dd",
     "--mcdtweaks-bulletin": "#454545",
     "--mcdtweaks-important": "#454545",
