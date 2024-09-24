@@ -27,12 +27,12 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 # Coming soon
 - Custom Profiles
 - Themes
-- Firefox support
+- Universal browser support
 - Animations
 
 > [!NOTE]
 > Themes will never be perfect. <br />
-> Many people have access to menus which I never will, and thus won't be able to change. (Ex: parents, teachers, athletes, etc) <br />
+> Many people have access to menus which I never will, and thus won't be able to change. (Ex: parents, teachers, etc) <br />
 > While I have tried to make themes the best as I can get it, there will still be pages that won't be affected. <br />
 > If you have any menus or areas that don't work with themes, please reach out to me! <br />
 
@@ -49,6 +49,7 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 
 > [!WARNING]
 > Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry! <br />
+> This is soon to change, I'm planning to migrate MCDTweaks to Tampermonkey / Greasemonkey. <br />
 > Additionally, this plugin will not work on the school computers, as MCDS blocked all extensions on them. (why mcds)
 > Currently, I'm actively trying to get this approved by IT for use on the school computers. I'll give an update soon.
 
