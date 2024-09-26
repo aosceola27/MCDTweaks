@@ -21,7 +21,7 @@
   },
   {
     "name":"Dark",
-    "version":1,
+    "version":2,
     "--mcdtweaks-bg": "#1d1e22",
     "--mcdtweaks-navbar": "rgb(28, 28, 30)",
     "--mcdtweaks-content": "rgb(41, 41, 43)",
