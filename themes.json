@@ -1,6 +1,7 @@
 [
   {
     "name":"MCDTweaks (default)",
+    "id":1,
     "version":1,
     "--mcdtweaks-bg": "#eeeeef",
     "--mcdtweaks-navbar": "#edeae6",
@@ -21,6 +22,7 @@
   },
   {
     "name":"Dark",
+    "id":2,
     "version":1,
     "--mcdtweaks-bg": "#1d1e22",
     "--mcdtweaks-navbar": "rgb(28, 28, 30)",
