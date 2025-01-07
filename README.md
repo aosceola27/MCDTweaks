@@ -5,6 +5,7 @@
 > I'm putting this project off to the side for a while so I can focus on school.
 > I'll still try to fix any bugs if there are any.
 > But for now, Update 1.2.0 and 2.0.0 will come later this year (prolly idk)
+> Update: I'm resuming work on MCDTweaks
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
