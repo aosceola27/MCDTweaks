@@ -1,11 +1,6 @@
 # MCDTweaks by Anthony Osceola
 <img src="https://i.ibb.co/G9KZJ8z/Screenshot-2024-08-31-005916.png" style="text-align: center; border-radius: 10px;">
 
-> [!IMPORTANT]
-> I'm putting this project off to the side for a while so I can focus on school.
-> I'll still try to fix any bugs if there are any.
-> But for now, Update 1.2.0 and 2.0.0 will come later this year (prolly idk)
-> Update: I'm resuming work on MCDTweaks
 
 Some code I wrote to vastly improve the Miami Country Day School student portal.
 This is a side project of mine that I occasionally work on, so updates may be infrequent.
@@ -57,7 +52,6 @@ Have any suggestions? Bugs? Hmu on Snap `aosceola56` or on Discord `datgamer56`
 > Unfortunately, Firefox, Microsoft Edge, and Safari aren't supported at the moment, sorry! <br />
 > This is soon to change, I'm planning to migrate MCDTweaks to Tampermonkey / Greasemonkey. <br />
 > Additionally, this plugin will not work on the school computers, as MCDS blocked all extensions on them. (why mcds)
-> Currently, I'm actively trying to get this approved by IT for use on the school computers. I'll give an update soon.
 
 Special thanks to Blair and Reece for helping and testing this
 > Anthony, Class of 2027
