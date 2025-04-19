@@ -1,6 +1,6 @@
 # MCDTweaks by Anthony Osceola
 <img src="https://i.ibb.co/G9KZJ8z/Screenshot-2024-08-31-005916.png" style="text-align: center; border-radius: 10px;">
-
+#it now works on laptops
 > [!IMPORTANT]
 > I'm putting this project off to the side for a while so I can focus on school.
 > I'll still try to fix any bugs if there are any.
